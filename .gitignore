@@ -1,1 +1,4 @@
 node_modules/
+
+# Only push compressed data
+data/raw/
